@@ -3,7 +3,7 @@
 Este repositório é para compartilhar os artigos escritos no meu blog, [revershell.io](revershell.io) em formato de Jupyter Notebook.
 
 <p align="center">
-![reverseshell.io](site.png)
+<img src="site.png">
 </p>
 
 Gosto muito de utilizar o Jupyter para escrever tudo, pois consigo ter acesso direto à linha de comando e manipulação de arquivos diretamente do *notebook*, e ainda ter os *outputs* do sistema salvos no arquivo.
