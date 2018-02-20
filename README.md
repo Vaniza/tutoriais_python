@@ -2,6 +2,8 @@
 
 Este repositório é para compartilhar os artigos escritos no meu blog, [revershell.io](revershell.io) em formato de Jupyter Notebook.
 
+![reverseshell.io](site.png)
+
 Gosto muito de utilizar o Jupyter para escrever tudo, pois consigo ter acesso direto à linha de comando e manipulação de arquivos diretamente do *notebook*, e ainda ter os *outputs* do sistema salvos no arquivo.
 
 Como utilizo a plataforma [http://jekyllrb.com/](Jekyll) para o blog, consigo exportar diretamente o Markdown.
