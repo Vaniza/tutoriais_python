@@ -8,7 +8,7 @@ Este repositório é para compartilhar os artigos escritos no meu blog, [reversh
 
 Gosto muito de utilizar o Jupyter para escrever tudo, pois consigo ter acesso direto à linha de comando e manipulação de arquivos diretamente do *notebook*, e ainda ter os *outputs* do sistema salvos no arquivo.
 
-Como utilizo a plataforma [http://jekyllrb.com/](Jekyll) para o blog, consigo exportar diretamente o Markdown.
+Como utilizo a plataforma [Jekyll](http://jekyllrb.com/) para o blog, consigo exportar diretamente o Markdown.
 
 Não deixe também de visitar a página!
 
