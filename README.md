@@ -1,16 +1,7 @@
 ## Artigos do site reverseshell.io
 
-Este repositório é para compartilhar os artigos escritos no meu blog, [revershell.io](revershell.io) em formato de Jupyter Notebook.
+Este repositório é para compartilhar alguns artigos escritos no meu site [sigmoidal.ai](sigmoidal.ai) e tutoriais sobre outras áreas de meu interesse, sempre em formato de Jupyter Notebook.
 
-<p align="center">
-  <a href="http://reverseshell.io"><img src="site.png"></a>
-</p>
-
-Gosto muito de utilizar o Jupyter para escrever tudo, pois consigo ter acesso direto à linha de comando e manipulação de arquivos diretamente do *notebook*, e ainda ter os *outputs* do sistema salvos no arquivo.
-
-Como utilizo a plataforma [Jekyll](http://jekyllrb.com/) para o blog, consigo exportar diretamente o Markdown.
-
-Não deixe também de visitar a página!
 
 ### Artigos publicados (ordem cronolgica)
 
